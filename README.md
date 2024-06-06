@@ -6,7 +6,7 @@ Neste perfil você encontrará alguns de meus projetos de automação de testes.
 
 Para saber mais sobre minha jornada como Quality Assurance entre em contato [aqui](https://www.linkedin.com/in/richardkovalski/).
 
-Be water, my friend.
+_*Be water, my friend. 🌊*_
 
 ### 🚀 Skills
 
