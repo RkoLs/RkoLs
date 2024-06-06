@@ -1,6 +1,6 @@
 ### ✨ Hello! 
 
-Sou Richard Kovalski, um entusiasta da qualidade, apaixonado por automação de testes, sempre em busca de conhecimento e novos desafios.
+Sou Richard Leal Kovalski de Lima, um entusiasta da qualidade, apaixonado por automação de testes, sempre em busca de conhecimento e novos desafios.
 
 Neste perfil você encontrará alguns de meus projetos de automação de testes.
 
