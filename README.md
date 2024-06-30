@@ -2,7 +2,7 @@
 
 Sou Richard Leal Kovalski de Lima, um entusiasta da qualidade, apaixonado por automação de testes, sempre em busca de conhecimento e novos desafios.
 
-Neste perfil, você encontrará alguns de meus projetos de automação de testes, assim como projetos de desenvolvimento para prática de lógica de programação em JavaScript, Java e outras linguagens.
+Neste perfil, você encontrará alguns de meus projetos de automação de testes, assim como projetos de desenvolvimento para prática em JavaScript, Java e outras linguagens.
 
 Para saber mais sobre minha jornada como Quality Assurance entre em contato [aqui](https://www.linkedin.com/in/richardkovalski/).
 
