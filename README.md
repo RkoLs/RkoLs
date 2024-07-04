@@ -73,5 +73,4 @@ _*Be water, my friend. 🌊*_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardkovalski/)
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=RkoLs&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
