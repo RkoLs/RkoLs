@@ -1,3 +1,5 @@
+<h1 align="center">Welcome!</h1><img align="right" src="computer.png" width="350"/>
+
 ### ✨ Hello! 
 
 Sou Richard Leal Kovalski de Lima, um entusiasta da qualidade, apaixonado por automação de testes, sempre em busca de conhecimento e novos desafios.
