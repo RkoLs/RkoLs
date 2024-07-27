@@ -1,6 +1,6 @@
 </h1><img align="right" src="computer-project.png" width="350"/>
 
-### <img align="left" src="icon2.png" width="23"/> Hello! 
+### 👨‍💻 Hello! 
 
 Sou Richard Leal Kovalski de Lima, um entusiasta da qualidade, apaixonado por automação de testes, sempre em busca de conhecimento e novos desafios.
 
