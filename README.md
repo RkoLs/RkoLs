@@ -67,13 +67,19 @@ _*Be water, my friend. 🌊*_
     <img aling="center" alt="swagger" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white">
  </div><br/>
 
+## Contato
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/richardkovalski/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-### 📧 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardkovalski/)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RkoLs&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=RkoLs&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
